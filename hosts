@@ -1,3 +1,33 @@
+# Title: CostasBotomas/filter
+#
+# This hosts file is a dump of the infamous  "Λίστα Πέτσα",
+# It will block every site that was listed and took money during the COVID-19 plandemic.
+#
+# Date: 15 May 2025 18:03:14 (UTC+2)
+# Number of domains: 626
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/CostasBotomas/filter/master/hosts
+# NOTE: THIS WILL GET UPDATED IN THE FUTURE IF KOULIS GIVE FREE MONEY TO OTHER WEBSITES
+#
+# WORKS PERFECTLY WITH PIHOLE/WINDOWS HOSTS
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
 0.0.0.0 1077STATUSFM.GR
 0.0.0.0 12VIMA.GR
 0.0.0.0 24ORESIMATHIA.GR
